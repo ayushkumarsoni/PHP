@@ -39,7 +39,7 @@
 </head>
 <body>
 
-<h2>Your profile:</h2>
+<h2>Your Profile:</h2>
 
 <?php ?>
 <div class="profilecontainer">
